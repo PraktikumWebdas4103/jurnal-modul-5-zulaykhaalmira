@@ -1,5 +1,5 @@
 <form method="POST">
-	Komentar <input type="textbox" name="komen"><br>
+	Komentar <input type="textbox" name="komen" minlength="5"><br>
 	<input type="submit" name="submit" value="Kirim">
 </form>
 
